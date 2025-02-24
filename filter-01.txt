@@ -1,2 +1,2 @@
-||facebook.com^$client=192.168.222.144
-||facebook.com^
+||facebook.com^$client=192.168.222.144!important
+||facebook.com^!important
